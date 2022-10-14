@@ -1,0 +1,1 @@
+Os dados usados podem ser encontrados em https://www.kaggle.com/datasets/gunnarn/chicago-bicycle-rent-usage
