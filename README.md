@@ -6,7 +6,7 @@ A diretora de marketing da Cyclistic acredita que o sucesso da empresa depende d
 
 Para validar esta hipótese foi necessário analisar as diferenças no comportamento de usuários casuais e usuário membros.
 
-Com base na análise foram geradas recomendações para aumentar a conversão de usuários casuais em membros.
+Com base na análise de 11.812.079 registros, foram geradas recomendações para aumentar a conversão de usuários casuais em membros.
 
 ## Tecnologias
 - Python
